@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Infrastructure.deps.json
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Infrastructure.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Infrastructure.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Application.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Domain.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Application.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\bin\Debug\net6.0\meetingOrganizer.Domain.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.AssemblyInfo.cs
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.csproj.CopyComplete
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\refint\meetingOrganizer.Infrastructure.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\meetingOrganizer.Infrastructure.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Infrastructure\obj\Debug\net6.0\ref\meetingOrganizer.Infrastructure.dll

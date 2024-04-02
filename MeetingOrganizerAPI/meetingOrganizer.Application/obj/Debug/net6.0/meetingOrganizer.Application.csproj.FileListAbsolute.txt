@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\bin\Debug\net6.0\meetingOrganizer.Application.deps.json
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\bin\Debug\net6.0\meetingOrganizer.Application.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\bin\Debug\net6.0\meetingOrganizer.Application.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.AssemblyInfo.cs
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\refint\meetingOrganizer.Application.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\ref\meetingOrganizer.Application.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\bin\Debug\net6.0\meetingOrganizer.Application.runtimeconfig.json
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\bin\Debug\net6.0\meetingOrganizer.Domain.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\bin\Debug\net6.0\meetingOrganizer.Domain.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.csproj.CopyComplete
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Application\obj\Debug\net6.0\meetingOrganizer.Application.genruntimeconfig.cache

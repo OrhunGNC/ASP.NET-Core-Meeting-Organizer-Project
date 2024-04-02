@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\bin\Debug\net6.0\meetingOrganizer.Domain.deps.json
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\bin\Debug\net6.0\meetingOrganizer.Domain.runtimeconfig.json
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\bin\Debug\net6.0\meetingOrganizer.Domain.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\bin\Debug\net6.0\meetingOrganizer.Domain.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.AssemblyInfo.cs
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\refint\meetingOrganizer.Domain.dll
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.pdb
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\meetingOrganizer.Domain.genruntimeconfig.cache
+C:\Users\pc\Desktop\MeetingOrganizerAPI\meetingOrganizer.Domain\obj\Debug\net6.0\ref\meetingOrganizer.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YV5VuEqVJkb0a5Ebc8E7S7vtY7TLobkQniBgrybCeqM=",
+  "Source": "meetingOrganizer.API",
+  "BasePath": "_content/meetingOrganizer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
